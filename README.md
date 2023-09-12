@@ -9,5 +9,8 @@ https://www.figma.com/file/z8VIusgPMxhZNhRiZhI7yd/Prot%C3%B3tipo?type=design&nod
 ## Canvas
 https://miro.com/app/board/uXjVP_EqKIM=/
 
+## Diagrama de Classes
+https://drive.google.com/file/d/1vXG5SpjLFauEGSS9YMtZW-PwhnwLOELe/view?usp=sharing
+
 ## Equipe
 Gabriel Vettorazzi e Vinicius Besen
